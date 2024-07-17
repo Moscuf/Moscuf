@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on interesting jobs
 - 📫 How to reach me patricio.sc.13@gmail.com
+- 📫 How to reach me https://www.linkedin.com/in/patricio-sleeping-forest/
 - 😄 Pronouns: pato, moscuf
 - ⚡ Fun fact: I'am a social communicator
 <!---
