@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **patricio.sc.13@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/patricio-sleeping-forest/](https://www.linkedin.com/in/patricio-sleeping-forest/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/patricio-sleeping-forest/] (https://www.linkedin.com/in/patricio-sleeping-forest/)
 
 - ⚡ Fun fact **I am a qualified social communicator**
 
